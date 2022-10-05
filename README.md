@@ -1,7 +1,7 @@
 # Thi Alves
 <div align="center">
   <a href="https://github.com/thi-alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thi-alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thi-alves&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">

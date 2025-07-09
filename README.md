@@ -7,8 +7,9 @@
 <!--➤ 🔹 🔸 ⮕ ➔ ➡️-->
 <hr/>
 
-![thi-alves GitHub stats](https://github-readme-stats.vercel.app/api?username=thi-alves&show_icons=true&theme=gotham)
-  
+![thi-alves GitHub stats](https://github-readme-stats.vercel.app/api?username=thi-alves&show_icons=true&theme=radical)
+      
+<!--![thi-alves GitHub stats](https://github-readme-stats.vercel.app/api?username=thi-alves&show_icons=true&theme=tokyonight)-->
 
 
 <h2>🚀Skills</h2>

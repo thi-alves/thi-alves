@@ -1,8 +1,9 @@
 <div>
-  <h1>What's up!</h1>
+  <h1>Welcome to my profile!</h1>
 </div>
 <p>Hi, my name is Thiago Alves and I am a software developer from Brazil.</p>
-<p>🔹 I am currently studying Analysis and System's Development at FATEC</p>
+<p>🔹 I am currently studying Analysis and Systems Development at FATEC.</p>
+<p>🔹 I'm a technology enthusiast focused on programming, looking for opportunities to grow as a developer.</p>
 
 <!--➤ 🔹 🔸 ⮕ ➔ ➡️-->
 <hr/>
